@@ -44,3 +44,8 @@ python experiments/run_gsm8k.py --mode FullConnected --batch_size 4 --agent_nums
 ## Acknowledgement
 
 This code refers to [GPTSwarm](https://github.com/metauto-ai/GPTSwarm).
+
+
+MMUL
+/dev :开发集，Few-shot的演示例子
+/test ：测试集
